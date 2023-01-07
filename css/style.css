@@ -1,0 +1,35 @@
+.navbar-brand{
+    font-size: 30px !important;
+    font-weight: 700;
+}
+header h1{
+    font-size: 30px;
+    padding: 15px 0px;
+    margin: 10px 0px;
+}
+/* screen size <=567px*/
+#chicken-content, #beef-content, #sushi-content{
+  height: auto;
+  margin: 10px auto;
+  padding-top: 20px;
+}
+div .section-content a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+div .section-content a:hover{
+    color: rgb(5, 5, 5);
+    text-decoration: none;
+}
+ul li{
+    border-bottom: 1px solid black;
+}
+ul li a:hover{
+    color: aliceblue !important;
+
+}
+@media (min-width:576px) {
+   
+}
+@media (min-width:768px) {
+}
